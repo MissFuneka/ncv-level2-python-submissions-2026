@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Page-1" id="Bxzbctl82PLPX-_zkwdK">
-    <mxGraphModel dx="680" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1193" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,7 +48,13 @@
           <mxGeometry height="60" width="140" x="365" y="470" as="geometry" />
         </mxCell>
         <mxCell id="UjDmMDuFVWA7z5-jZk0R-46" edge="1" parent="1" source="UjDmMDuFVWA7z5-jZk0R-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="UjDmMDuFVWA7z5-jZk0R-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" x="0.0061" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="530" />
+              <mxPoint x="200" y="557.5" />
+              <mxPoint x="295" y="557.5" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="UjDmMDuFVWA7z5-jZk0R-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="factor = first number" vertex="1">
           <mxGeometry height="60" width="120" x="125" y="470" as="geometry" />
